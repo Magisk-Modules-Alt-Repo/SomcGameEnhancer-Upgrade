@@ -1,7 +1,7 @@
-# id 只能填 字母 数字 半角符号
-id=Module-Template
-name=模块模板
-version=v1
-versionCode=1
-author=Petit Abba
-description=一个简短的描述
+id=SomcGameEnhancer-Upgrade
+name=SomcGameEnhancer Upgrade
+version=v7.0.A.0.64
+versionCode=20220517
+author=entr0pia@GitHub
+description=Upgrade SomcGameEnhancer for Old Xperia Devices, Android 12 only
+updateJson=https://raw.githubusercontent.com/entr0pia/SomcGameEnhancer-Upgrade/master/update.json
