@@ -1,6 +1,6 @@
 # SomcGameEnhancer Upgrade
 
-Upgrade SomcGameEnhancer for Old Xperia Devices , Android 12 only
+Upgrade SomcGameEnhancer for Old Xperia Devices , Official Android 12 ROM only
 
 Supported devices:
 - Xperia 1 II
