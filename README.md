@@ -2,7 +2,15 @@
 
 Upgrade SomcGameEnhancer for Old Xperia Devices , Official Android 12 ROM only
 
-Supported devices:
+## Included apps
+
+- [SomcGameEnhancer](https://www.apkmirror.com/apk/sony-mobile-communications/game-enhancer/)
+- [SomcGameEnhancerAPI](https://www.apkmirror.com/apk/sony-mobile-communications-inc/ge-subsystem-2/)
+- [SomcGameEnhancerBrowser](https://www.apkmirror.com/apk/sony-mobile-communications/search-function/)
+- [SomcGameEnhancerMonitor](https://www.apkmirror.com/apk/sony-mobile-communications/subsystem/)
+
+## Supported devices:
+
 - Xperia 1 II
 - Xperia 5 II
 - Xperia 10 II 
@@ -13,4 +21,9 @@ Supported devices:
 
 ## More
 
-If you need to upgrade other apps, such as: `CameraPro`, `VideoPro`, and `CinemaPro`, download the apks from [ApkMirror](https://www.apkmirror.com/apk/sony-mobile-communications-inc/), and you can install them directly.
+If you need to upgrade other apps, download the apks from [ApkMirror](https://www.apkmirror.com/apk/sony-mobile-communications-inc/). You can install them directly, but they are not guaranteed to work.
+
+- [Cinema Pro](https://www.apkmirror.com/apk/sony-mobile-communications/cinema-pro/)
+- [Music Pro](https://www.apkmirror.com/apk/sony-corporation/music-pro/)
+- [Photography Pro](https://www.apkmirror.com/apk/sony-mobile-communications/sony-photography-pro/)
+- [Videography Pro](https://www.apkmirror.com/apk/sony-mobile-communications/videography-pro/)
