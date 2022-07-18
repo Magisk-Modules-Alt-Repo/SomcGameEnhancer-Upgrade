@@ -1,7 +1,7 @@
 id=SomcGameEnhancer-Upgrade
 name=SomcGameEnhancer Upgrade
-version=v7.0.A.0.66
-versionCode=14680130
+version=v7.0.A.0.68
+versionCode=14680132
 author=entr0pia@GitHub
 description=Upgrade SomcGameEnhancer for Old Xperia Devices, Android 12 only
 updateJson=https://raw.githubusercontent.com/entr0pia/SomcGameEnhancer-Upgrade/master/update.json
